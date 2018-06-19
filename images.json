@@ -1,0 +1,60 @@
+
+{
+    "secTeams":[ 
+        {
+            "team": "Alabama",
+            "image-url": "https://i.imgur.com/Z7rY4eG.png"
+        },
+        {
+            "team": "Arkansas",
+            "image-url": "https://i.imgur.com/4NpoMct.jpg?1"
+        },
+        {
+            "team": "Auburn",
+            "image-url": "https://i.imgur.com/XPywUGh.jpg"
+        },
+        {
+            "team": "Georgia",
+            "image-url": "https://i.imgur.com/gIr0CNM.jpg?1"
+        },
+        {
+            "team": "Florida",
+            "image-url": "https://i.imgur.com/4fMJYo3.jpg"
+        },
+        {
+            "team": "Kentucky",
+            "image-url": "https://i.imgur.com/mHa1lKV.jpg"
+        },
+        {
+            "team": "LSU",
+            "image-url": "https://i.imgur.com/qlA2PWY.png"
+        },
+        {
+            "team": "Mississippi State",
+            "image-url": "https://i.imgur.com/nrZILdT.png"
+        },
+        {
+            "team": "Missouri",
+            "image-url": "https://i.imgur.com/60mqmRK.jpg"
+        },
+        {
+            "team": "Ole Miss",
+            "image-url": "https://i.imgur.com/RclmnU7.jpg"
+        },
+        {
+            "team": "South Carolina",
+            "image-url": "https://i.imgur.com/ACWbNsR.jpg"
+        },
+        {
+            "team": "Texas A&M",
+            "image-url": "https://i.imgur.com/Hth5mpR.png"
+        },
+        {
+            "team": "Tennessee",
+            "image-url": "https://i.imgur.com/kbsVYbm.jpg"
+        },
+        {
+            "team": "Vanderbilt",
+            "image-url": "https://i.imgur.com/XuqTVwX.png"
+        }]
+}

@@ -1,0 +1,19 @@
+<h1 style="margin-top: 15px">
+{{message}}
+</h1>
+
+<div class="container row" style="justify-content: center">
+    {{#each teams}}
+        <div class="col-md-4 col-sm-6 col-xs-12" style="padding:10px">
+            <a href="/{{team}}">
+                <img style="width:260px;height:200px" class="img-thumbnail" src="{{image-url}}" alt="{{team}} sad fan">
+            </a>
+            <div class="caption">
+                <a style='text-decoration: none;color:whitesmoke'href="/{{team}}">
+                    {{team}}
+                </a>
+            </div>
+        </div>
+    {{/each }}
+</div>
+
